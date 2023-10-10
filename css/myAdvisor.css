@@ -3,9 +3,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: 'Lato', sans-serif;
-    
-    
+    font-family: 'Lato', sans-serif;  
 }
 .navbar{
     background-color: #fe94ad;
@@ -135,5 +133,3 @@ nav ul li a{
         grid-template-columns: 1fr;      
     }
 }
-
-
