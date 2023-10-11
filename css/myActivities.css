@@ -67,8 +67,7 @@ p{
     transition: transform 0.5s;
 }
 .card1{
-    background-image: url(https://tuipied-my.sharepoint.com/personal/marisa_chant_dome_tu_ac_th/Documents/acti/or%20all.jpg);
-    
+    background-image: url(../image/or all.jpg);
 }
 .card1 p{
     color: #fff;
